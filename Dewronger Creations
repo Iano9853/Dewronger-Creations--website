@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dewronger Creations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            color: blue;
+            font-weight: bold;
+        }
+        h1 {
+            text-decoration: underline;
+        }
+        h2 {
+            text-decoration: underline;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .about {
+            font-size: 18px;
+        }
+        .motto {
+            font-weight: bold;
+            font-size: 20px;
+            margin-top: 10px;
+        }
+        .leaders {
+            margin-top: 20px;
+        }
+        .contact-list {
+            list-style-type: decimal;
+            margin-left: 20px;
+        }
+        .form-section {
+            margin-top: 20px;
+        }
+        .form-section label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        .form-section input {
+            margin-bottom: 10px;
+            padding: 8px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        .form-section button {
+            padding: 10px;
+            background-color: blue;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dewronger Creations</h1>
+    <div class="section about">
+        <p>Dewronger Creations is a youth empowerment group that was created on 17th September 2023. Our aim is to empower the youth to realize and improve their talent in sectors such as modelling, modern dancing, and content creation.</p>
+    </div>
+
+    <div class="section motto">
+        <p><b>MOTTO:EMPOWERING THE YOUTH FOR A BETTER TOMORROW</b>.</p>
+    </div>
+
+    <h2>Dewronger Creations Leaders and their Contact</h2>
+    <div class="section leaders">
+        <ol class="contact-list">
+            <li>Boniface Mwenda (Group President) - +254740642990</li>
+            <li>James Masese (Group Deputy President) - +254726232298</li>
+            <li>Ian Mwangangi(Group Secretary) - +254713020146</li>
+            <li>Pasqueline Nyokabi (Group Treasurer) - +254114709263</li>
+        </ol>
+    </div>
+    <p style="color:blue;text-align:center;font-size:26px;"><b><u>RULES FOR DEWRONGER CREATIONS</b></u></header>
+    <p style="color:green"><b>NB:All members are expected to follow the rules and regualtions.Failure yo uphold the rules will lead to an automatic removal of the member from the group.<b></p>
+  <ol>
+ <i>1.Time management.</i><br>
+     2.Respect all members of the group especially the leaders.<br>
+     3.Always take part in group projects.<br>
+     4.Always be present for group online meetings that is(Whatsapp)on Wednesdays and (Facebook) on Fridays.<br>
+     5.Talk out any issue if you have one.<br>
+     6.No addition of new members to the group unless verified by any of the group leaders.<br>
+     7.Dress neatly<br>
+     8.No drugs are allowed<br>
+     9.No missing out on group activities unless you present a genuine apology to the group secretary<br>
+<p style="color:green"><b>All members are required to submit a copy of their ID and if a member doesn't have an ID then they are required to bring a copy of their parent's/guardian ID</b></p>
+<p style="color:green"><b>The ID should be submitted to the group's secretary email or Whatsapp</b></p>
+    <h3 style="color:blue;font-size:26px;"><b><u>Dewronger Creations social media handles</b></u></h3>
+    <div class="Dewronger Creations">
+        <ol class="Social media handles">
+            <li><b>TikTok</b>- Dewronger</li>
+            <li><b>Whatsapp</b>- +254713020146</li>
+            <li><b>Facebook</b>- Dewronger Creations</li>
+            <li><b>Youtube</b>- Dewronger Creations</li>
+            <li><b>Email</b>- dewrongercreations254@gmail.con</li>
+    <div class="section form-section">
+<p style="color:purple;font-size:27;"><b>Always remember that the darkest of nights produce the brightest stars.<br>By:<br>
+  <br> Dorcas Wanjiru(group main advisor) </b></p>
+ 
+<head>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;border-weight:300;
+        }
+        th, td {
+            padding:10px;
+            text-align: left;
+            text-decoration:none;
+        }
+    </style>
+<body>
+
+<h2 style="color:blue"><b><u>Dewronger Creations event table year 2024<u></b></h2>
+
+<table>
+  <tr>
+    <th style="color:green;font-size:19px;"><b>Event</b></th>
+    <th style="color:green;font-size:19px"><b>Month</b></th>
+    <th style="color:green;font-size:19px;"><b>Budget<b></th>
+  </tr>
+  <tr>
+    <td><b>Visit to C.D.E.C</b></td>
+    <td><b>August</b></td>
+    <td><b>ksh.200 per member</b></td>
+  </tr>
+  <tr>
+    <td><b>Group Anniversary</b></td>
+    <td><b>August</b></td>
+    <td><b>Ksh.500 per member</b></td>
+  </tr>
+  <tr>
+    <td><b>Group Registration<b></td>
+    <td><b>November</b></td>
+    <td><b>Ksh.200 per member</b></td>
+  </tr>
+</table>
+
+</body>
+<body>
+        <h2>Sign Up</h2>
+        <form action="/signup" method="post">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="phone">Phone Number:</label>
+            <input type="tel" id="phone" name="phone" required>
+            <label for="password">Password (8 digits):</label>
+            <input type="password" id="password" name="password" minlength="8" maxlength="8" required>
+            <button type="submit">Sign Up</button>
+        </form>
+    </div>
+
+    <div class="section form-section">
+    <h2>Login</h2>
+    <form id="login-form" action="/login" method="post">
+        <label for="login-phone">Phone Number:</label>
+        <input type="tel" id="login-phone" name="phone" required>
+        <label for="login-password">Password:</label>
+        <input type="password" id="login-password" name="password" required>
+        <button type="submit">Login</button>
+    </form>
+</div>
+
+<script>
+    document.getElementById('login-form').addEventListener('submit', function(event) {
+        event.preventDefault();
+        
+        // Simulate successful login and redirection
+        // Replace this with actual authentication logic
+        
+    });
+</script>
+
+
+    <div class="section form-section">
+        <h2>Change Password</h2>
+        <form action="/change-password" method="post">
+            <label for="change-phone">Phone Number:</label>
+            <input type="tel" id="change-phone" name="phone" required>
+            <label for="new-password">New Password (8 digits):</label>
+            <input type="password" id="new-password" name="new-password" minlength="8" maxlength="8" required>
+            <button type="submit">Change Password</button>
+        </form>
+    </div>
+
+    <!-- Optional: Include JavaScript to handle form submissions and display the welcome message -->
+    <script>
+        document.querySelector('form[action="/login"]').addEventListener('submit', function(event) {
+            event.preventDefault();
+            alert('Welcome to Dewronger Creations');
+        });
+    </script>
+</body>
+<a
+href=htttps://www.dewrongercreations.com">dewrongercreations</a>
+</html>
